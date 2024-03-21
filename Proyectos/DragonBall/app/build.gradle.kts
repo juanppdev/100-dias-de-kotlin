@@ -78,4 +78,8 @@ dependencies {
     implementation(libs.picasso)
 
     implementation(libs.coil.compose)
+
+    // Usando en Carousel Card Slider
+    implementation(libs.accompanist.pager)
+    implementation(libs.androidx.ui.util)
 }

@@ -10,7 +10,7 @@ import kotlinx.coroutines.flow.asStateFlow
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
-class DragonBallViewModel: ViewModel() {
+class DragonBallCharactersViewModel: ViewModel() {
 
     private val _Personajes = MutableStateFlow<List<DragonBallLista>>(emptyList())
     val personajes = _Personajes.asStateFlow()

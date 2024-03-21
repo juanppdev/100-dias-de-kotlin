@@ -4,7 +4,7 @@ import com.google.gson.annotations.SerializedName
 
 data class DragonBallModel(
     @SerializedName("items")
-    val ListItems: List<DragonBallLista>
+    val ListItems: List<DragonBallLista>,
 )
 
 data class DragonBallLista (
