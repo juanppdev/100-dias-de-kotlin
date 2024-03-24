@@ -1,6 +1,7 @@
 # Bienvenidos a los 100 días de Kotlin
 
-![qoo_dias_Kotlin2](https://github.com/juanppdev/100-dias-de-kotlin/assets/81490579/3fc6749b-15d6-4570-b234-f44c1cdc4195)
+
+![Fondos100DiasKotlin](https://github.com/juanppdev/100-dias-de-kotlin/assets/81490579/6b200872-6455-4215-b331-b3718d5a68c4)
 
 
 # Cómo Participar
