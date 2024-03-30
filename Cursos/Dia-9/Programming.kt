@@ -8,7 +8,7 @@ class Programmer(val name: String,
             KOTLIN,
             SWIFT,
             JAVA,
-            JABASCRIPT
+            JAVASCRIPT
         }
 
         for (language in languages) {
