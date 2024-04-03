@@ -29,7 +29,7 @@ fun sayMyNameAndAge(name: String, age: Int) {
 }
 
 // Funciones con un valor de retorno
-fun sumToNumbers(firstNumber: Int, secondNumber: Int) {
+fun sumToNumbers(firstNumber: Int, secondNumber: Int): Int {
     val sum = firstNumber + secondNumber
     return sum
 }
